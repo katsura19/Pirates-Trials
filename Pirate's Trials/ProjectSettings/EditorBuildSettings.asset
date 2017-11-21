@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Loading/CargaInicial.unity
+    guid: 1eaaccde52adf364483116db7619bf05
+  - enabled: 1
+    path: Assets/Scenes/Titulo/Titulo.unity
+    guid: 42502f282e114024a979b4a574c4bced
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: 153ad3ecb24ecc44684f26b5999828eb
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu_Instrucciones.unity
+    guid: 50083c6d194f9f34b95a946a06f1ba96
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu_Minijuegos.unity
+    guid: 7b6b0c60aaa6e0740ac2a2d41a4631fa
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu_Record.unity
+    guid: 21a520c17ae809045b106c43d9eae341
+  - enabled: 1
+    path: Assets/Scenes/Historia_Viaje/Historia_Inicio.unity
+    guid: a3a5d89cf2a13dd41b78eec727cb3761
+  - enabled: 1
+    path: Assets/Scenes/Historia_Viaje/Historia_Viaje_2.unity
+    guid: 1b61b117bbc8baf4b92559cf4ec88bee
+  - enabled: 1
+    path: Assets/Scenes/Historia_Viaje/Historia_Viaje_3.unity
+    guid: a68e3152c9b49924c9c184588734e4b8
+  - enabled: 1
+    path: Assets/Scenes/Historia_Viaje/Historia_Viaje_4.unity
+    guid: e57aa66001c18fe40af3619a62810c73
+  - enabled: 1
+    path: Assets/Scenes/Historia_Isla/Historia_2.unity
+    guid: e8522bdbd703e0e4e9b70d468cc3b162
+  - enabled: 1
+    path: Assets/Scenes/Historia_Isla/Historia_3.unity
+    guid: 9094bb71e3e6c6f41803d8f7cbe2dba0
+  - enabled: 1
+    path: Assets/Scenes/Historia_Isla/Historia_4.unity
+    guid: 832458dda52e8f54d99be861f49354d7
+  - enabled: 1
+    path: Assets/Scenes/Vida_Gratis/Vida_Gratis.unity
+    guid: d3c7dffcd23129942a97e62e12ab92a7
+  - enabled: 1
+    path: Assets/Scenes/Final/GameOver.unity
+    guid: bd38f2266f565594784c929eb206b35b
+  - enabled: 1
+    path: Assets/Scenes/Final/Historia_Final.unity
+    guid: fc0cba3dfd0b387468eca0d1e372390d
+  - enabled: 1
+    path: Assets/Scenes/Error/Pantalla_Error.unity
+    guid: d78999221c3028846857bba0f3caa725
+  - enabled: 1
+    path: Assets/Scenes/Viaje/Viaje.unity
+    guid: 98c4cad529319b84db5c8fb82dbde287
+  - enabled: 1
+    path: Assets/Scenes/Viaje/Viaje_Minijuego.unity
+    guid: aad3c8cffe3b2614f8c982125ad865a0
+  - enabled: 1
+    path: Assets/Scenes/Breakout/Breakout.unity
+    guid: 96da37c8943546e4389f4618e1431141
+  - enabled: 1
+    path: Assets/Scenes/Breakout/Breakout_Minijuego.unity
+    guid: 4bf588ca612d9334ca3df290b02ee3a5
